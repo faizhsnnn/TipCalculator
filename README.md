@@ -35,3 +35,9 @@ It then calculates:
 ---
 
 ## 📂 File Structure
+Tip Calculator/
+│
+├── main.py          # Main Python script that runs the calculator
+├── README.md        # Project documentation
+└── .gitignore       # (Optional) Files and folders to ignore in Git
+
