@@ -35,6 +35,7 @@ It then calculates:
 ---
 
 ## 📂 File Structure
+```
 Tip Calculator/
 │
 ├── main.py          # Main Python script that runs the calculator
